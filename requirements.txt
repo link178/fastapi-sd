@@ -1,5 +1,7 @@
-fastapi
-uvicorn
-torch
-diffusers
-accelerate
+fastapi==0.110.0
+uvicorn==0.27.1
+torch==2.1.0
+diffusers==0.23.0
+transformers==4.35.2
+accelerate==0.23.0
+safetensors==0.4.0
